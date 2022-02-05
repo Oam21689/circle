@@ -18,12 +18,8 @@ Type the following command:
 
   
        git clone https://github.com/Oam21689/vendingMachine.git
-       
-       
-The following commands are to be executed if the editor/compiler is already installed:
-
        cd vendingMachine
        cd src
-       open VendingM.java
+       java VendingM.java
 
 Path to the executable file: /vendingMachine/src/VendingM.java
