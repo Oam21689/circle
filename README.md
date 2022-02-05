@@ -17,9 +17,8 @@ Open Cmd / Terminal
 Type the following command:
 
   
-       git clone https://github.com/Oam21689/vendingMachine.git
-       cd vendingMachine
-       cd src
-       java VendingM.java
+       git clone https://github.com/Oam21689/circle.git
+       cd circle
+       java circle.java
 
-Path to the executable file: /vendingMachine/src/VendingM.java
+Path to the executable file: /circle/circle.java
