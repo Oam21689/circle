@@ -19,6 +19,6 @@ Type the following command:
   
        git clone https://github.com/Oam21689/circle.git
        cd circle
-       java circle.java
+       java Circle.java
 
-Path to the executable file: /circle/circle.java
+Path to the executable file: /circle/Circle.java
