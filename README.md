@@ -17,13 +17,8 @@ Open Cmd / Terminal
 Type the following command:
 
   
-       git clone https://github.com/Oam21689/vendingMachine.git
-       
-       
-The following commands are to be executed if the editor/compiler is already installed:
+       git clone https://github.com/Oam21689/circle.git
+       cd circle
+       java Circle.java
 
-       cd vendingMachine
-       cd src
-       open VendingM.java
-
-Path to the executable file: /vendingMachine/src/VendingM.java
+Path to the executable file: /circle/Circle.java
